@@ -1,5 +1,5 @@
 # restnow
-Sample Fiber API generator.
+Simple Fiber API generator.
 
 Drop an input file on the binary, and get a project folder in the same directory.
 
