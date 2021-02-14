@@ -1,4 +1,6 @@
 {
+    "name": "sample",
+    "repoName": "example.com/sample",
     "defaultPort": 7552,
     "routes": {
         "something": {
