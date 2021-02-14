@@ -1,0 +1,12 @@
+{
+    "defaultPort": 7552,
+    "routes": {
+        "something": {
+            "1": {
+                "a": ["GET", "POST", "PUT"]
+            },
+            "2": ["GET"],
+            "3": ["GET", "DELETE"]
+        }
+    }
+}
